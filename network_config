@@ -1,0 +1,12 @@
+#inital network create IP info
+
+
+POOL_START_IP=
+POOL_END_IP=
+POOL_GATEWAY=
+POOL_CIDR=
+
+
+DEMO_GATEWAY=
+DEMO_CIDR=
+
