@@ -140,7 +140,8 @@ keystone endpoint-create \
   --internalurl http://$THISHOST_NAME:5000/v2.0 \
   --adminurl http://$THISHOST_NAME:35357/v2.0 \
   --region regionOne
-i
+identity
+
 unset OS_SERVICE_TOKEN OS_SERVICE_ENDPOINT
 
 #create admin credentials file
